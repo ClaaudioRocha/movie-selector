@@ -1,0 +1,19 @@
+{
+  "name": "movie-selector",
+  "version": "1.0.0",
+  "description": "an app to randomly select a movie to watch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaaudioRocha/movie-selector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaaudioRocha/movie-selector/issues"
+  },
+  "homepage": "https://github.com/ClaaudioRocha/movie-selector#readme"
+}
